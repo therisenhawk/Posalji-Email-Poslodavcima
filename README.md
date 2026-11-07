@@ -2,9 +2,9 @@
 
 ## Opis projekta
 
-Cilj projekta je da se iz postojeće Excel baze izdvoje poslodavci i radna mjesta koja odgovaraju određenim studijskim programima i oblastima interesovanja.
+Cilj je da se iz postojeće Excel baze izdvoje poslodavci i radna mjesta koja odgovaraju određenim studijskim programima i oblastima interesovanja.
 
-Projekat je namijenjen lakšem pronalaženju potencijalnih poslodavaca za praksu, pripravnički staž i zaposlenje u oblastima analitike podataka, informacionih tehnologija i digitalizacije.
+Ideja je namijenjena lakšem pronalaženju potencijalnih poslodavaca za praksu, pripravnički staž i zaposlenje u oblastima analitike podataka, informacionih tehnologija i digitalizacije.
 
 ## Korišćene tehnologije
 
