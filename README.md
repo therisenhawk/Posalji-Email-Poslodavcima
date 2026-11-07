@@ -1,6 +1,6 @@
 # Filtriranje poslodavaca i radnih mjesta
 
-## Opis projekta
+## Opis
 
 Cilj je da se iz postojeće Excel baze izdvoje poslodavci i radna mjesta koja odgovaraju određenim studijskim programima i oblastima interesovanja.
 
